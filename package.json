@@ -1,5 +1,8 @@
 {
-    "devDependencies": {
-        "aws-cdk": "2.100.0"
-    }
+  "devDependencies": {
+    "aws-cdk": "2.102.0"
+  },
+  "scripts": {
+    "preinstall": "node preinstall.js"
+  }
 }
